@@ -1,2 +1,2 @@
-# articles
+# research
 Publishing Scientific Journal Articles
